@@ -77,13 +77,8 @@ body{
 }
 
 .clothing {
-    margin-top: -7%;
+    margin-top: -8%;
     display: flex;
     margin-left: 50%;
 }
 
-.shop_by_sport {
-    margin-top: -7%;
-    display: flex;
-    margin-left: 80%;
-}

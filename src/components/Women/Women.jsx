@@ -147,6 +147,27 @@ import size17 from '../../assets/plus_size/plus-17.avif'
 import size18 from '../../assets/plus_size/plus-18.avif'
 import size19 from '../../assets/plus_size/plus-19.avif'
 import size20 from '../../assets/plus_size/plus-20.avif'
+
+import dress1 from '../../assets/dresses_skirts/dress-1.avif'
+import dress2 from '../../assets/dresses_skirts/dress-2.avif'
+import dress3 from '../../assets/dresses_skirts/dress-3.avif'
+import dress4 from '../../assets/dresses_skirts/dress-4.avif'
+import dress5 from '../../assets/dresses_skirts/dress-5.avif'
+import dress6 from '../../assets/dresses_skirts/dress-6.avif'
+import dress7 from '../../assets/dresses_skirts/dress-7.avif'
+import dress8 from '../../assets/dresses_skirts/dress-8.avif'
+import dress9 from '../../assets/dresses_skirts/dress-9.avif'
+import dress10 from '../../assets/dresses_skirts/dress-10.avif'
+import dress11 from '../../assets/dresses_skirts/dress-11.avif'
+import dress12 from '../../assets/dresses_skirts/dress-12.avif'
+import dress13 from '../../assets/dresses_skirts/dress-13.avif'
+import dress14 from '../../assets/dresses_skirts/dress-14.avif'
+import dress15 from '../../assets/dresses_skirts/dress-15.avif'
+import dress16 from '../../assets/dresses_skirts/dress-16.avif'
+import dress17 from '../../assets/dresses_skirts/dress-17.avif'
+import dress18 from '../../assets/dresses_skirts/dress-18.avif'
+import dress19 from '../../assets/dresses_skirts/dress-19.avif'
+import dress20 from '../../assets/dresses_skirts/dress-20.avif'
 import './Women.css'
 
 
@@ -1815,12 +1836,12 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={size16} />
                         <Card.Body>
-                            <Card.Title>ESSENTIALS WARM-UP SLIM TAPERED 3-STRIPES TRACK PANTS (PLUS SIZE)</Card.Title>
+                            <Card.Title>TIRO 24 TRAINING PANTS (PLUS SIZE)</Card.Title>
                             <Card.Text>
-                                Women's • Sportswear
+                                Women's • Soccer
                             </Card.Text>
-                            <Card.Text>$41</Card.Text>
-                            <Card.Text>5 colors</Card.Text>
+                            <Card.Text>$50</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
@@ -1875,242 +1896,242 @@ const Kids = () => {
                 <Route path="dresses & skirts" element={<div className='dresses_skirts'>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
+                        <Card.Img variant="top" src={dress1} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>FUTURE ICONS 3-STRIPES DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$55</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
+                        <Card.Img variant="top" src={dress2} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADICOLOR CLASSICS 3-STRIPES MAXI DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$60</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
+                        <Card.Img variant="top" src={dress3} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS X FARM RIO SLIM DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$55</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
+                        <Card.Img variant="top" src={dress4} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADICOLOR 3-STRIPES MAXI DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$55</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
+                        <Card.Img variant="top" src={dress5} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>FASHION MONTREAL DENIM PLAYSUIT</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$110</Card.Text>
+                            <Card.Text>4 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img6} />
+                        <Card.Img variant="top" src={dress6} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>PRIDE SKIRT</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$60</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
+                        <Card.Img variant="top" src={dress7} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ESSENTIALS 3-STRIPES SINGLE JERSEY BOYFRIEND TEE DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$40</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
+                        <Card.Img variant="top" src={dress8} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>PRIDE MESH DRES</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$75</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
+                        <Card.Img variant="top" src={dress9} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>Y-3 RUST DYE LONG DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Y-3
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$330</Card.Text>
+                            <Card.Text>4 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
+                        <Card.Img variant="top" src={dress10} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>STRIPE PACK GRAPHIC TEE DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$36</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
+                        <Card.Img variant="top" src={dress11} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>FUTURE ICONS 3-STRIPES DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$50</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img12} />
+                        <Card.Img variant="top" src={dress12} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADICOLOR 3-STRIPES MINI DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$32</Card.Text>
+                            <Card.Text>5 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img13} />
+                        <Card.Img variant="top" src={dress13} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>CLUB TENNIS PLEATED SKIRT</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Tennis
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$45</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img14} />
+                        <Card.Img variant="top" src={dress14} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>STRIPE PACK GRAPHIC TEE DRESSSTRIPE PACK GRAPHIC TEE DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$36</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img15} />
+                        <Card.Img variant="top" src={dress15} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS DESIGNED BY RUI ZHOU SPORTSWEAR DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$96</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
+                        <Card.Img variant="top" src={dress16} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIDAS NY TEE DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$45</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
+                        <Card.Img variant="top" src={dress17} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>TENNIS PREMIUM DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Tennis
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$108</Card.Text>
+                            <Card.Text>4 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img18} />
+                        <Card.Img variant="top" src={dress18} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SOLID SKORT</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Golf
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$52</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img19} />
+                        <Card.Img variant="top" src={dress19} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>KSENIASCHNAIDER REPURPOSED SLIP DRESS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$84</Card.Text>
+                            <Card.Text>3 colors</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
+                        <Card.Img variant="top" src={dress20} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>STRIPE PACK GRAPHIC TEE DRESS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                                Women's • Sportswear
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colors</Card.Text>
+                            <Card.Text>$36</Card.Text>
+                            <Card.Text>2 colors</Card.Text>
                         </Card.Body>
                     </Card>
                     </div>} />

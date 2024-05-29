@@ -27,7 +27,7 @@ body{
     grid-template-rows: repeat(4, 510px);
 }
 
-.slides_sandals {
+.soccer {
     display: grid;
     margin-left: 7%;
     grid-template-columns: repeat(4, 1fr);

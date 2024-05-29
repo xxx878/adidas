@@ -22,47 +22,50 @@ import img18 from '../../assets/m-snikers/snikers-18.avif'
 import img19 from '../../assets/m-snikers/snikers-19.avif'
 import img20 from '../../assets/m-snikers/snikers-20.avif'
 
-import running1 from '../../assets/running/running-1.avif'
-import running2 from '../../assets/running/running-2.avif'
-import running3 from '../../assets/running/running-3.avif'
-import running4 from '../../assets/running/running-4.avif'
-import running5 from '../../assets/running/running-5.avif'
-import running6 from '../../assets/running/running-6.avif'
-import running7 from '../../assets/running/running-7.avif'
-import running8 from '../../assets/running/running-8.avif'
-import running9 from '../../assets/running/running-9.avif'
-import running10 from '../../assets/running/running-10.avif'
-import running11 from '../../assets/running/running-11.avif'
-import running12 from '../../assets/running/running-12.avif'
-import running13 from '../../assets/running/running-13.avif'
-import running14 from '../../assets/running/running-14.avif'
-import running15 from '../../assets/running/running-15.avif'
-import running16 from '../../assets/running/running-16.avif'
-import running17 from '../../assets/running/running-17.avif'
-import running18 from '../../assets/running/running-18.avif'
-import running19 from '../../assets/running/running-19.avif'
-import running20 from '../../assets/running/running-20.avif'
+import running1 from '../../assets/m-running/running-1.avif'
+import running2 from '../../assets/m-running/running-2.avif'
+import running3 from '../../assets/m-running/running-3.avif'
+import running4 from '../../assets/m-running/running-4.avif'
+import running5 from '../../assets/m-running/running-5.avif'
+import running6 from '../../assets/m-running/running-6.avif'
+import running7 from '../../assets/m-running/running-7.avif'
+import running8 from '../../assets/m-running/running-8.avif'
+import running9 from '../../assets/m-running/running-9.avif'
+import running10 from '../../assets/m-running/running-10.avif'
+import running11 from '../../assets/m-running/running-11.avif'
+import running12 from '../../assets/m-running/running-12.avif'
+import running13 from '../../assets/m-running/running-13.avif'
+import running14 from '../../assets/m-running/running-14.avif'
+import running15 from '../../assets/m-running/running-15.avif'
+import running16 from '../../assets/m-running/running-16.avif'
+import running17 from '../../assets/m-running/running-17.avif'
+import running18 from '../../assets/m-running/running-18.avif'
+import running19 from '../../assets/m-running/running-19.avif'
+import running20 from '../../assets/m-running/running-20.avif'
 
-import sandals1 from '../../assets/slides_sandals/sandals-1.avif'
-import sandals2 from '../../assets/slides_sandals/sandals-2.avif'
-import sandals3 from '../../assets/slides_sandals/sandals-3.avif'
-import sandals4 from '../../assets/slides_sandals/sandals-4.avif'
-import sandals5 from '../../assets/slides_sandals/sandals-5.avif'
-import sandals6 from '../../assets/slides_sandals/sandals-6.avif'
-import sandals7 from '../../assets/slides_sandals/sandals-7.avif'
-import sandals8 from '../../assets/slides_sandals/sandals-8.avif'
-import sandals9 from '../../assets/slides_sandals/sandals-9.avif'
-import sandals10 from '../../assets/slides_sandals/sandals-10.avif'
-import sandals11 from '../../assets/slides_sandals/sandals-11.avif'
-import sandals12 from '../../assets/slides_sandals/sandals-12.avif'
-import sandals13 from '../../assets/slides_sandals/sandals-13.avif'
-import sandals14 from '../../assets/slides_sandals/sandals-14.avif'
-import sandals15 from '../../assets/slides_sandals/sandals-15.avif'
-import sandals16 from '../../assets/slides_sandals/sandals-16.avif'
-import sandals17 from '../../assets/slides_sandals/sandals-17.avif'
-import sandals18 from '../../assets/slides_sandals/sandals-18.avif'
-import sandals19 from '../../assets/slides_sandals/sandals-19.avif'
-import sandals20 from '../../assets/slides_sandals/sandals-20.avif'
+import soccer1 from '../../assets/m-soccer/soccer-1.avif'
+import soccer2 from '../../assets/m-soccer/soccer-2.avif'
+import soccer3 from '../../assets/m-soccer/soccer-3.avif'
+import soccer4 from '../../assets/m-soccer/soccer-4.avif'
+import soccer5 from '../../assets/m-soccer/soccer-5.avif'
+import soccer6 from '../../assets/m-soccer/soccer-6.avif'
+import soccer7 from '../../assets/m-soccer/soccer-7.avif'
+import soccer8 from '../../assets/m-soccer/soccer-8.avif'
+import soccer9 from '../../assets/m-soccer/soccer-9.avif'
+import soccer10 from '../../assets/m-soccer/soccer-10.avif'
+import soccer11 from '../../assets/m-soccer/soccer-11.avif'
+import soccer12 from '../../assets/m-soccer/soccer-12.avif'
+import soccer13 from '../../assets/m-soccer/soccer-13.avif'
+import soccer14 from '../../assets/m-soccer/soccer-14.avif'
+import soccer15 from '../../assets/m-soccer/soccer-15.avif'
+import soccer16 from '../../assets/m-soccer/soccer-16.avif'
+import soccer17 from '../../assets/m-soccer/soccer-17.avif'
+import soccer18 from '../../assets/m-soccer/soccer-18.avif'
+import soccer19 from '../../assets/m-soccer/soccer-19.avif'
+import soccer20 from '../../assets/m-soccer/soccer-20.avif'
+
+import walking1 from '../../assets/m-walking/walking-1.avif'
+
 import './Man.css'
 
 const Kids = () => {
@@ -485,47 +488,48 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running13} />
                         <Card.Body>
-                            <Card.Title>ADIZERO TAKUMI SEN 10 M</Card.Title>
+                            <Card.Title>DURAMO SPEED RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's Running
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$140</Card.Text>
-                            <Card.Text>12 colorst</Card.Text>
+                            <Card.Text>$63</Card.Text>
+                            <Card.Text>8 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running14} />
                         <Card.Body>
-                            <Card.Title>SUPERNOVA RISE W</Card.Title>
+                            <Card.Title>DURAMO SL RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's Running
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$140</Card.Text>
-                            <Card.Text>12 colorst</Card.Text>
+                            <Card.Text>$59</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running15} />
                         <Card.Body>
-                            <Card.Title>SUPERNOVA RISE W</Card.Title>
+                            <Card.Title>DURAMO SPEED RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$140</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$90</Card.Text>
+                            <Card.Text>8 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running16} />
                         <Card.Body>
-                            <Card.Title>ADIZERO AVANTI SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA RISE MOVE FOR THE PLANET SHOES</Card.Title>
                             <Card.Text>
-                                Track & Field
+                            Men's • Running
+
                             </Card.Text>
-                            <Card.Text>$150</Card.Text>
+                            <Card.Text>$140</Card.Text>
                             <Card.Text>10 colorst</Card.Text>
                         </Card.Body>
                     </Card>
@@ -533,11 +537,11 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running17} />
                         <Card.Body>
-                            <Card.Title>ADIZERO ADIOS 8 W</Card.Title>
+                            <Card.Title>RESPONSE</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$130</Card.Text>
+                            <Card.Text>$60</Card.Text>
                             <Card.Text>7 colorst</Card.Text>
                         </Card.Body>
                     </Card>
@@ -545,23 +549,23 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running18} />
                         <Card.Body>
-                            <Card.Title>SUPERNOVA RISE SHOES</Card.Title>
+                            <Card.Title>DURAMO SPEED RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$140</Card.Text>
-                            <Card.Text>12 colorst</Card.Text>
+                            <Card.Text>$63</Card.Text>
+                            <Card.Text>8 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running19} />
                         <Card.Body>
-                            <Card.Title>ADIZERO SL RUNNING SHOES</Card.Title>
+                            <Card.Title>GALAXY 6 RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
+                            <Card.Text>$60</Card.Text>
                             <Card.Text>5 colorst</Card.Text>
                         </Card.Body>
                     </Card>
@@ -569,105 +573,167 @@ const Kids = () => {
                     <Card style={{ width: '18rem' }}>
                         <Card.Img variant="top" src={running20} />
                         <Card.Body>
-                            <Card.Title>DURAMO 10 SHOES</Card.Title>
+                            <Card.Title>DURAMO SPEED RUNNING SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$70</Card.Text>
-                            <Card.Text>2 colorst</Card.Text>
+                            <Card.Text>$90</Card.Text>
+                            <Card.Text>7 colorst</Card.Text>
                         </Card.Body>
                     </Card>
                     </div>} />
                 <Route path="slides&sandals" element={<div className='soccer'>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals1} />
+                        <Card.Img variant="top" src={soccer1} />
                         <Card.Body>
-                            <Card.Title>ADILETTE PLATFORM SLIDES</Card.Title>
+                            <Card.Title>X CRAZYFAST ELITE LACELESS FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Women's • Sportswear
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$35</Card.Text>
+                            <Card.Text>$260</Card.Text>
                             <Card.Text>6 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals2} />
+                        <Card.Img variant="top" src={soccer2} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>COPA PURE II ELITE FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$60</Card.Text>
-                            <Card.Text>15 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals3} />
-                        <Card.Body>
-                            <Card.Title>ADILETTE 22 SLIDES</Card.Title>
-                            <Card.Text>
-                                Originals
-                            </Card.Text>
-                            <Card.Text>$60</Card.Text>
-                            <Card.Text>6 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals4} />
-                        <Card.Body>
-                            <Card.Title>ADILETTE PLATFORM SLIDES</Card.Title>
-                            <Card.Text>
-                                Women's • Sportswear
-                            </Card.Text>
-                            <Card.Text>$50</Card.Text>
-                            <Card.Text>6 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals5} />
-                        <Card.Body>
-                            <Card.Title>ADILETTE AQUA SLIDES</Card.Title>
-                            <Card.Text>
-                                Swim
-                            </Card.Text>
-                            <Card.Text>$25</Card.Text>
-                            <Card.Text>10 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals6} />
-                        <Card.Body>
-                            <Card.Title>ZPLAASH SLIDES</Card.Title>
-                            <Card.Text>
-                                Sportswear
-                            </Card.Text>
-                            <Card.Text>$55</Card.Text>
+                            <Card.Text>$230</Card.Text>
                             <Card.Text>4 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals7} />
+                        <Card.Img variant="top" src={soccer3} />
                         <Card.Body>
-                            <Card.Title>ADILETTE COMFORT SLIDES</Card.Title>
+                            <Card.Title>PREDATOR 24 LEAGUE LACELESS FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Swim
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$35</Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>6 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer4} />
+                        <Card.Body>
+                            <Card.Title>X CRAZYFAST LEAGUE LACELESS TURF CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>6 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer5} />
+                        <Card.Body>
+                            <Card.Title>PREDATOR 24 LEAGUE TURF CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$95</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer6} />
+                        <Card.Body>
+                            <Card.Title>COPA PURE II LEAGUE FIRM GROUND CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+
+
+                            </Card.Text>
+                            <Card.Text>$60</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer7} />
+                        <Card.Body>
+                            <Card.Title>F50 ELITE FAST REBORN FIRM GROUND CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$260</Card.Text>
                             <Card.Text>17 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals8} />
+                        <Card.Img variant="top" src={soccer8} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>MESSI SAMBA SHOES</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer9} />
+                        <Card.Body>
+                            <Card.Title>PREDATOR ELITE FIRM GROUND CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$260</Card.Text>
+                            <Card.Text>4 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer10} />
+                        <Card.Body>
+                            <Card.Title>X CRAZYFAST.3 FIRM GROUND SOCCER CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$76</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer11} />
+                        <Card.Body>
+                            <Card.Title>X CRAZYFAST MESSI LEAGUE FIRM GROUND CLEATS</Card.Title>
+                            <Card.Text>
+                            Soccer
+                            </Card.Text>
+                            <Card.Text>$90</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer12} />
+                        <Card.Body>
+                            <Card.Title>GAZELLE CHILE SHOES</Card.Title>
+                            <Card.Text>
+                            Originals
+                            </Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>35 colorst</Card.Text>
+                        </Card.Body>
+                    </Card>
+
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={soccer13} />
+                        <Card.Body>
+                            <Card.Title>X CRAZYFAST.1 LACELESS FIRM GROUND SOCCER CLEATS</Card.Title>
                             <Card.Text>
                                 Women's • Originals
                             </Card.Text>
@@ -677,207 +743,147 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals9} />
+                        <Card.Img variant="top" src={soccer14} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>X CRAZYFAST LEAGUE LACELESS FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals10} />
+                        <Card.Img variant="top" src={soccer15} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>X CRAZYFAST LEAGUE TURF SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$85</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals11} />
+                        <Card.Img variant="top" src={soccer16} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>COPA PURE II LEAGUE FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$60</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals12} />
+                        <Card.Img variant="top" src={soccer17} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SAMBA MESSI SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals13} />
+                        <Card.Img variant="top" src={soccer18} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>X CRAZYFAST PRO FIRM GROUND CLEATS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$150</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals14} />
+                        <Card.Img variant="top" src={soccer19} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>X CRAZYFAST LEAGUE LACELESS TURF CLEATS</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$100</Card.Text>
+                            <Card.Text>2 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals15} />
+                        <Card.Img variant="top" src={soccer20} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>COPA MUNDIAL SOCCER SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Soccer
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals16} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals17} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals18} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals19} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
-                        </Card.Body>
-                    </Card>
-
-                    <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={sandals20} />
-                        <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
-                            <Card.Text>
-                                Women's • Originals
-                            </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$180</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
                     </div>} />
                 <Route path="walking" element={<div className='walking'>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img1} />
+                        <Card.Img variant="top" src={walking1} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIZERO TAKUMI SEN 10 M</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            ADIZERO TAKUMI SEN 10 M
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$180</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img2} />
+                        <Card.Img variant="top" src={walking2} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>ADIZERO AVANTI SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Track & Field
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$150</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img3} />
+                        <Card.Img variant="top" src={walking3} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>SUPERNOVA RISE SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$140</Card.Text>
+                            <Card.Text>3 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img4} />
+                        <Card.Img variant="top" src={walking4} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>DURAMO SPEED SHOES</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
-                            <Card.Text>20 colorst</Card.Text>
+                            <Card.Text>$90</Card.Text>
+                            <Card.Text>8 colorst</Card.Text>
                         </Card.Body>
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img5} />
+                        <Card.Img variant="top" src={walking5} />
                         <Card.Body>
-                            <Card.Title>GAZELLE BOLD SHOES</Card.Title>
+                            <Card.Title>4DFWD X STRUNG</Card.Title>
                             <Card.Text>
-                                Women's • Originals
+                            Men's • Running
                             </Card.Text>
-                            <Card.Text>$120</Card.Text>
+                            <Card.Text>$300</Card.Text>
                             <Card.Text>20 colorst</Card.Text>
                         </Card.Body>
                     </Card>
@@ -895,7 +901,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img7} />
+                        <Card.Img variant="top" src={walking19} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -907,7 +913,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img8} />
+                        <Card.Img variant="top" src={walking9} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -919,7 +925,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img9} />
+                        <Card.Img variant="top" src={walking2} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -931,7 +937,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img10} />
+                        <Card.Img variant="top" src={running6} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -943,7 +949,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img11} />
+                        <Card.Img variant="top" src={walking18} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -1003,7 +1009,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img16} />
+                        <Card.Img variant="top" src={walking6} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -1015,7 +1021,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img17} />
+                        <Card.Img variant="top" src={walking10} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
@@ -1051,7 +1057,7 @@ const Kids = () => {
                     </Card>
 
                     <Card style={{ width: '18rem' }}>
-                        <Card.Img variant="top" src={img20} />
+                        <Card.Img variant="top" src={running9} />
                         <Card.Body>
                             <Card.Title>GAZELLE BOLD SHOES</Card.Title>
                             <Card.Text>
